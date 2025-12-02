@@ -131,8 +131,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📧 Contact
 
-Shubham - [GitHub](https://github.com/shubham241-svg) - [Email](shubh241gupta@gmail.com)
-
-Project Link: [https://github.com/shubham241-svg/quickConnect](https://github.com/shubham241-svg/quickConnect)
